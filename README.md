@@ -1,2 +1,2 @@
 # Ashrae-Prediction-Case-Study-III-
-EDA-->During this analysis of the meter readings is done for each site.Important observations were that the air temperature for 13 different sites was not in alignment with the local timestamp of the meter readings.
+EDA-->During this analysis of the meter readings is done for each site.Important observations were that the air temperature for 13 different sites was not in alignment with the local timestamp of the meter readings.Meter readings for site 0 and meter 0 have been started taken from May 20 2016 and readings before that needs to be removed.We have to remove buildings which are showing inconsistent or very high meter readings for the individual sites.
