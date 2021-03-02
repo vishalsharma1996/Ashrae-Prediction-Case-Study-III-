@@ -6,3 +6,5 @@ IMPUTATION AND FEATURE ENGINEERING-->After doing an indepth EDA we also found th
 MODEL AND HYPERPARAMETER TUNING-->Models which i have tried till now is LGBM,CATBOOST,XGBOOST AND RANDOMFOREST.Hyperparameter tuning is performed for each and every model.The model which performed best is the LGBM.Further I have also tried custom ensembling and simple multilayer perceptron models to compare with the previous model scores.
 
 MODEL DEPLOYMENT-->Finally I have deployed my model using flask on google colab
+
+
