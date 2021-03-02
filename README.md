@@ -7,7 +7,9 @@ MODEL AND HYPERPARAMETER TUNING-->Models which i have tried till now is LGBM,CAT
 
 MODEL DEPLOYMENT-->Finally I have deployed my model using flask on google colab
 
+
 FILE DESCRIPTION
+
 Eda_for_Energy_Consumption.ipyb-->It contains the code for detailed data visualization
 
 Final(1).ipynb-->It contains the final productionizable code which will predict the meter readings for four different types
