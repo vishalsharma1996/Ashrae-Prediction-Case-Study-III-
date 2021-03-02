@@ -46,3 +46,5 @@ Tuning_LGBM_2(1).ipynb-->It contains the code for hyperparameter tuning of LGBM 
 Tuning_RFregressor(1).ipynb-->it contains the code for hyperparameter tuning for the RANDOM-FOREST Model
 
 XGB_CATBOOST_Base_Model.ipynb-->It contains the code for base model and hyperparameter tuning of it to be used in the ensembling method.
+
+app(1).ipynb-->It contains the code for deploying the model on colab using flask.It also contains the link of the working deployed model
